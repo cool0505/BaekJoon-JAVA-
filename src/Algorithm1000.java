@@ -11,5 +11,6 @@ public class Algorithm1000 {
 		System.out.println(A+B);
  
 		in.close();
+		
 	}
 }
